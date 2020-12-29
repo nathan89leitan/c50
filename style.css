@@ -1,0 +1,39 @@
+h1 {
+    color: brown;
+}
+
+
+
+* {
+    background-color:
+grey}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #001111;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #eeeeee
+}
+body{
+    margin: 0px;
+    background-color:whitesmoke;
+}
+
+.grid img{
+    border: 2px solid #000011;
+    border-radius: 50px;
+    
+
+}
+.origami {
+    border-radius;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 23px;
+    width:310px;
+    font-family: fantasy;
+}
